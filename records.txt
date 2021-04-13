@@ -1,0 +1,12 @@
+23456,pranith,qwertyuiop,1234567890,hello@hello.com,0
+7890,pranith,zxcvbnm,1234567891,bye@,0
+765432,gowtham,ghotting,2732842,gowt@,0
+1,test,test@123,1,1@,409.08444835735156
+nitin018,nitin,Nitin@123,8106366932,nitinsontineni@gmail.com,601
+SAI,Sai ruthvik,123456,9618476826,sairuthvikellandula@gmail.com,500
+dsai,SaiRaju,dsai123,9381689936,saiscientist123@gmail.com,6.463774216683195E9
+nitin18,nitin,ytrewq,123654789,nitin@12,7174.52154517992
+qwerty1,qwerty,hello123,0887654321,1234@123.com,218.08377606621318
+98765,vinay,Vinay6666,9876543210,vinayaodsf@gmail.com,9388.52580581122
+8106704670,Jishnu satwik,satwik2808$,8106704670,kjishnusatwik@gmail.com,2583.1234115472544
+sairajud,SairajuD,fakepassword,9999899999,testmail@gmail.com,1041.3969420219144
